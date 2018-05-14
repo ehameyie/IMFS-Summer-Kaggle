@@ -1,5 +1,6 @@
 # IMFS-Summer-Kaggle
-# What
-# Why
-# How
-# Timeline
+## What
+## How
+## Timeline
+## Participants
+## Scoring Board
