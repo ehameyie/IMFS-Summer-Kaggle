@@ -5,12 +5,12 @@ The Office of Investment Management Fintech Strategies (IMFS) is excited to anno
 
 
 ## Timeline
-Kickoff - June 28th 2018
-Weekly meeting 1 -
-Weekly meeting 2 -
-Weekly meeting 3 -
-Weekly meeting 4 -
-Demo day and celebratory lunch -
+* Kickoff - June 28th 2018
+* Weekly meeting 1 -
+* Weekly meeting 2 -
+* Weekly meeting 3 -
+* Weekly meeting 4 -
+* Demo day and celebratory lunch -
 
 
 ## How
