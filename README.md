@@ -6,11 +6,11 @@ The Office of Investment Management Fintech Strategies (IMFS) is excited to anno
 
 ## Timeline
 * Kickoff - June 28th 2018
-* Weekly meeting 1 -
-* Weekly meeting 2 -
-* Weekly meeting 3 -
-* Weekly meeting 4 -
-* Demo day and celebratory lunch -
+* Weekly meeting 1 - July 6th 2018
+* Weekly meeting 2 - July 13th 2018
+* Weekly meeting 3 - July 20th 2018
+* Weekly meeting 4 - July 27th 2018
+* Demo day and celebratory lunch - August 3rd 2018
 
 
 ## How
@@ -34,11 +34,14 @@ Here’s a brief rundown of what you need to do:
 16. Confirm your submissions are present in the "submission" folder in the main repository
 17. Post "completed with project - yourteamname" in the "general" Slack channel
 
+
 ## Data and Rules
 
 ### Data
 
 #### Phase 1 - similarityCompetition
+Analysts tend to use different descriptions to refer to the same security. In this challenge, you are asked to make use of these descriptions to predict whether a pair of descriptions refers to the same security or not.
+
 ##### Refer to the "dataset" folder.
 The "train.csv" = your training dataset
 * description_x = description on a security x
@@ -58,17 +61,32 @@ The "submission_phase1_yourteamname.csv" = what your output file must look like
 * description_y = description on a security y
 * same_security = your predictions (binary true/false)
 
-#### Phase 2 - buySellCompetition
+#### Phase 2 - stockDirection
+Can you use eight years of daily news headlines to predict stock market movement?
+You have historical news headlines from Reddit WorldNews Channel ranked by reddit users' votes, and only the top 25 headlines are considered for a single date. (Range: 2008-06-08 to 2016-07-01). You are also provided with Dow Jones Industrial Average (DJIA) stock data (Range: 2008-08-08 to 2016-07-01). The challenge is to use news headlines data to predict stock directionality, i.e. whether the DJIA Adj. Close value decreases, or stays the same/increases.
+
+Some algorithms you may consider: Naives Bayes, Logistic Regression, SVM and Random Forest.
+
 ##### Refer to the "dataset" folder.
 The "train.csv" = your training dataset
-* buysell = binary (1=buy/0=sell).
+* Date = date stock/news were pulled
+* Open = stock price at market open on the day
+* High = highest stock price on the day
+* Low = lowest stock price on the day
+* Close = stock price at market close on the day
+* Volume = volume
+* Adj Close = stock price at market close, adjusted for fair value
+* Top1 thru Top25 = top 25 news headlines from reddit
 
 The "test.csv" = your test dataset used to grade your results
-* buysell = binary (1=buy/0=sell).
+* Date = date stock/news were pulled
+* Top1 thru Top25 = top 25 news headlines from reddit
 
 ##### Refer to the "submission" folder.
 The "submission_phase2_yourteamname.csv" = what your output file must look like
-* buysell = binary (1=buy/0=sell).
+* Date = date stock/news were pulled
+* stock_directionality = your prediction of stock movement. Must be binary (1 if (DJIA Adj. Close - Open)>= 0 | 0 otherwise).
+
 
 ### Rules
 1. We evaluate the accuracy of your predictions using [RMSE](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/) or [AUC](https://medium.com/@andygon/eli5-roc-curve-auc-metrics-ac4fe482f018)
@@ -86,7 +104,6 @@ Chuqi Yang
 Karly Jerman
 
 ### Team 4
-
 
 
 ## Scoring Board Leaders

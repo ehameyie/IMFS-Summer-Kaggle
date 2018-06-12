@@ -1,4 +1,4 @@
-,description_x,description_y,ticker_x,ticker_y,same_security
+test_id,description_x,description_y,ticker_x,ticker_y,same_security
 0,first trust dow jones internet,first trust dj internet idx,FDN,FDN,TRUE
 1,schwab intl large company index etf,schwab strategic tr fundamental intl large co index etf,FNDF,FNDF,TRUE
 2,vanguard small cap index adm,vanguard small-cap index fund inst,VSMAX,VSCIX,FALSE
