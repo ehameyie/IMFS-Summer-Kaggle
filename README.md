@@ -25,7 +25,7 @@ Here’s a brief rundown of what you need to do:
 7. Run your model using 'test.csv' as your input
 8. Submit your work using the "submission_phase1_yourteamname.csv" template
 9. Save your output results in the "submission" folder under "Phase 1 - submission". Make sure to name your output CSV as "submission_phase1_yourteamname.csv".
-10. If you still have time, move on to "Phase 2 - buySellCompetition"
+10. If you still have time, move on to "Phase 2 - stockDirection"
 11. Train your model using "train.csv"
 12. Run your model using 'test.csv' as your input
 13. Submit your work using the "submission_phase2_yourteamname.csv" template
