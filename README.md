@@ -30,7 +30,7 @@ Here’s a brief rundown of what you need to do:
 12. Run your model using 'test.csv' as your input
 13. Submit your work using the "submission_phase2_yourteamname.csv" template
 14. Save your output results in the "submission" folder under "Phase 2 - submission". Make sure to name your output CSV as "submission_phase2_yourteamname.csv".
-15. Merge your branch to the main (origin) repo
+15. Merge your branch to the main (master) repo
 16. Confirm your submissions are present in the "submission" folder in the main repository
 17. Post "completed with project - yourteamname" in the "general" Slack channel
 
