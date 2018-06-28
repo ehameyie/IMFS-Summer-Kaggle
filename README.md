@@ -94,4 +94,4 @@ The "submission_phase2_yourteamname.csv" = what your output file must look like
 2. Your submission must follow the template "submission_phasenumber_yourteamname.csv"
 
 ## Participants
-Teams are listed [HERE] (https://github.com/ehameyie/IMFS-Summer-Kaggle/blob/master/Teams.csv)
+Teams are listed [HERE](https://github.com/ehameyie/IMFS-Summer-Kaggle/blob/master/Teams.csv)
