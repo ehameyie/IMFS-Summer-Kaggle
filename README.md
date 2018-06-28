@@ -6,7 +6,7 @@ The Office of Investment Management Fintech Strategies (IMFS) is excited to anno
 
 ## Timeline
 * Kickoff - June 28th 2018
-* Weekly meeting 1 - July 6th 2018
+* Weekly meeting 1 - July 5th 2018
 * Weekly meeting 2 - July 13th 2018
 * Weekly meeting 3 - July 20th 2018
 * Weekly meeting 4 - July 27th 2018
@@ -94,17 +94,4 @@ The "submission_phase2_yourteamname.csv" = what your output file must look like
 2. Your submission must follow the template "submission_phasenumber_yourteamname.csv"
 
 ## Participants
-### Team 1
-Sharon Tsao
-
-### Team 2
-Chuqi Yang
-
-### Team 3
-Karly Jerman
-
-### Team 4
-
-
-## Scoring Board Leaders
-### Leader 1 - Team x
+Teams are listed [HERE] (https://github.com/ehameyie/IMFS-Summer-Kaggle/blob/master/Teams.csv)
