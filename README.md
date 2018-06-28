@@ -95,3 +95,11 @@ The "submission_phase2_yourteamname.csv" = what your output file must look like
 
 ## Participants
 Teams are listed [HERE](https://github.com/ehameyie/IMFS-Summer-Kaggle/blob/master/Teams.csv)
+
+## Help Desk
+### Data Science Questions
+Karly Jerman
+Terry Chan
+### Programming Questions
+Thomas France
+Theo Ribeiro
