@@ -98,8 +98,8 @@ Teams are listed [HERE](https://github.com/ehameyie/IMFS-Summer-Kaggle/blob/mast
 
 ## Help Desk
 ### Data Science Questions
-Karly Jerman
-Terry Chan
+1. Karly Jerman
+2. Terry Chan
 ### Programming Questions
-Thomas France
-Theo Ribeiro
+1. Thomas France
+2. Theo Ribeiro
