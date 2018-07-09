@@ -62,8 +62,8 @@ vanguard shortterm investgrade adm,vanguard shrt trm invmnt grd-inv,False
 bristol myers squibb company,bristol myers squibb co,True
 metlife inc,metlife incorporated div: 1.500,True
 nxp semiconductors n v com,nxp semiconductors nv,True
-novo nordisk a/s-adr nvorepstg 1/2 cl b sh,novo-nordisk a-s fadr 1 adr reps 1 ord shs,True
-vanguard total bond market index fund institutional shares,vanguard total bond market idx instl pls,False
+novo nordisk a/s-adr nvorepstg 1/2 cl b sh,novo-nordisk a-s fadr 1 adr reps 1 ord shs,False
+vanguard total bond market index fund institutional shares,vanguard total bond market idx instl pls,True
 accenture ltd ord,accenture plc ireland,True
 pimco total ret fd instl,pimco total return fund cl p,False
 pimco income a,pimco incm inst cl,True
@@ -74,7 +74,7 @@ baidu inc spons ads repr 0.10 ord cls a us0.00005,baidu inc - spon adr,True
 vanguard mid-cap index fund institutional shares,vanguard mid cap index ins,True
 ishares iboxx $ invt grade corp bd,ishares iboxx ig corp bond,True
 ultimate software group inc,ultimate software gp,True
-pimco income fund cl d,pimco income a,True
+pimco income fund cl d,pimco income a,False
 franklin income series cl a,franklin incm fd cl a,True
 ormat technologies inc,ormat technologies,True
 aqr mgd futures strat fd cl i,aqr aqr mngd futures strategy i,True
@@ -86,7 +86,7 @@ artisan intl value fund inv,artisan international value,True
 "stag industrials, inc. com",stag industrial inc com,True
 parnassus endeavor fd,parnassus endeavor fund investor shares,True
 johnson & johnson div: 3.000,johnson & johnson jnj,True
-eaton vance floating rate fd cl a,eaton vance bond fund cl i,True
+eaton vance floating rate fd cl a,eaton vance bond fund cl i,False
 vanguard total bond index adm,vanguard ttl bnd mrk indx inst,False
 pimco total ret fd instl,pimco total return fund - class r,False
 pimco total return fund cl d,pimco tot return adm,False
@@ -103,7 +103,7 @@ american tower corporation reit,american tower reit inc (hldg co) shs,True
 vang sm cap idx adm,vanguard small cap index fund,False
 vanguard short-term bond index fund investor shares,vanguard short-term bond index,True
 "vanguard small cap index, adm",vnguard index trust small cap idx instl,False
-ishares jpm usd emrg mkt bnd e tf,ishares jpm embi global core,False
+ishares jpm usd emrg mkt bnd e tf,ishares jpm embi global core,True
 blackrock strat income i,blackrock strategic income opptys investor cl a,False
 ishares russell midcap,ishares russell mid-cap etf,True
 ishares core msci emg mkts etf,harding loevner emerging mkts,True
@@ -113,7 +113,7 @@ vanguard crsp us small cap ind ex,vanguard small cap etf,True
 delta air lines inc dela new,delta air lines inc. (de),True
 ishares 20+ yr treasu bond etf div: 3.107,ishares 20+ year treasury bo,True
 sptn glb xus idx fai,spartan global ex us index fid adv cl,False
-fidelity new insights i,fidelity advisor new insights fund cl i,False
+fidelity new insights i,fidelity advisor new insights fund cl i,True
 ishares tr nat amt free bd,ishares tr natl mun bd etf fd,True
 vanguard small cap index adm,vanguard small-cap index fund institutional shares,False
 first eagle global fd cl a,first eagle global class a,True
@@ -179,7 +179,7 @@ vanguard total bond index adm,vanguard total bond market idx instl pls,False
 western digital corp,western digital corp com,True
 ishares core msci emg mkts etf,harding loevner emerg mrkts port adv,False
 pimco high income fd com shs,pimco high income fund,True
-ishares inc core msci emerging mkts etf,harding loevner emerging mkts,True
+ishares inc core msci emerging mkts etf,harding loevner emerging mkts,False
 time warner inc com,time warner inc,True
 vanguard international growth fund admiral,vanguard international growth fund admiral shares,True
 ishares trust core msci total intl stk etf,ishares core msci ttl int stk,True
@@ -187,7 +187,7 @@ ishares iboxx invt gradebond etf,ishares iboxx $ invt grade corp bd,True
 interactive brokers group inc. com,interactive brokers class a,True
 adobe systems,adobe systems incorporated,True
 vang tot bd mkt adm,vanguard total bond market idx instl pls,False
-yandex nv com,yandex n.v. com usd0.01 cl a,True
+yandex nv com,yandex n.v. com usd0.01 cl a,False
 vanguard small cap index - a,vanguard small-cap index fund inst,False
 sirius xm hldgs inc com isin #us5 sedol #bgldk10,sirius xm hldgs inc com,True
 vanguard target retirement 203 5 fund,vang target ret 2035,True
@@ -233,7 +233,7 @@ ishares russell 3000 index etf,ishares russell 3000 etf,True
 titan international inc com,titan international inc,True
 proshares tr ii ultra bloomberg crude oi,proshares ultra bloomberg crude oil etf,True
 ishares core msci emerging markets etf,harding loevner emerging mkts,True
-vang tot bd mkt adm,vanguard total bond market index i,True
+vang tot bd mkt adm,vanguard total bond market index i,False
 mfs global total return fund cl a,mfs global total return cl a,True
 metropolitan west total return m,metropolitan west tot ret bond,True
 blckrck inflation protect,blackrock inflation protected bond instl,False
@@ -245,7 +245,7 @@ wal-mart stores inc com isin #us9311421039 sedol #2936921,scana corp new com isi
 oppenheimer developing market a,oppenheimer developing mkts fd cl a,True
 nuveen high yield muni bond fund cl i,nuveen high yield municipal bond a,True
 vanguard short term invt grade admiral,vanguard short-term investment-grade fund investor shares,False
-the growth fund of america,amer fds grwth fd amr a,False
+the growth fund of america,amer fds grwth fd amr a,True
 fireeye inc,fireeye inc com usd0.0001,True
 templeton global bond fund advisor class,templeton global bond fund adv cl,True
 ishares inc core msci emerging mkts etf,harding loevner emerg mrkts port adv,False
@@ -312,7 +312,7 @@ american capital world growth and income fd a,american capital world grth & inc 
 vanguard mid cap index fund - admiral,vanguard mid cap index fund admiral class,True
 fidelity corporate bond fund,baird core plus bond inst,False
 spartan extended mkt index fid adv class,spartan extended mkt index investor cl,False
-nxp semiconductors f,nxp semiconductors n v,True
+nxp semiconductors f,nxp semiconductors n v,False
 columbia dividend income,col dividend inc z,True
 vanguard sml-cap ind-adm,vanguard small-cap index fund admiral,True
 vanguard index 500 port,vanguard 500 index fund-inv,True
@@ -361,7 +361,7 @@ vanguard high-yield corporate fund investor shares,vanguard high yield corp fund
 oneok inc new div: 2.460,oneok inc cm (new),True
 iron mtn inc new com div: 1.940,iron mtn inc reit,True
 howard hughes corp com,howard hughes corp,True
-af bond fd amer r6,the bond fund of america,False
+af bond fd amer r6,the bond fund of america,True
 kraft heinz co,kraft heinz co div: 2.300,True
 costco wholesale crp del,costco wholesale co,True
 first trust amex biotechnology index fund,first trust nyse arca biotechnology index fund,True
@@ -376,7 +376,7 @@ merck & company inc new,merck & co inc new,True
 pimco incm cl d,pimco income fd i,False
 vanguard fixed income secs inter term invt grade fd admiral cl,vanguard intermediate term inv gr fd inv cl,False
 vanguard growth index fund investor shares,vanguard growth index admiral,False
-guggenheim bulletshares 2018,guggenheim bulletshares 2018 high yield corp bd,True
+guggenheim bulletshares 2018,guggenheim bulletshares 2018 high yield corp bd,False
 vanguard total bond market div: 2.009,vanguard total bond mkt,True
 blackhawk network hldgs inc cl a,blackhawk netwk hldgs inc,True
 vanguard balanced index fd inv cl shrs,vanguard balanced index fund admiral shares,False
@@ -384,7 +384,7 @@ vanguard mid-cap value index fund,vanguard mid-cap value etf,True
 ishares tr natl mun bd etf fd,ishares nationl amt freemuni etf,True
 bank amer corp com,bank of america corp.,True
 russell 1000 growth (ishares),ishares russell 1000 grw etf div: 1.363,True
-american fd growth fd of america cl a,amer fds grwth fd amr a,False
+american fd growth fd of america cl a,amer fds grwth fd amr a,True
 ishares us real estate etf,ishares u s real estate etf,True
 dfa emerging markets portfolio,dfa emrging markets,True
 alphabet inc-cl a,alphabet inc. class a,True
@@ -450,7 +450,7 @@ alexion pharms inc,alexion pharmaceuticals inc,True
 vanguard total bond market idx-adm,vanguard ttl bnd mrk indx inst,False
 general mtrs co,general motors co.,True
 zoes kitchen inc com isin #us7 sedol #bl95n36,zoes kitchen inc com,True
-loomis sayles bond fund cl i,loomis sayles mlti-asset inc a,True
+loomis sayles bond fund cl i,loomis sayles mlti-asset inc a,False
 athenahealth inc delaware,athenahealth inc,True
 ishares silver trust etf,ishares silver shares,True
 emerging markets,harding loevner emerging mkts,True
@@ -482,7 +482,7 @@ new york community bancorp inc.,new york community,True
 pimco income instl,pimco income administrative,False
 select sector spdr trust technology select index,sector spdr tr shs ben int technology,True
 vanguard ttl bond mkt idx adm,vanguard bond index total mkt investor,False
-tmpl global bond a,templeton global bond fund r,True
+tmpl global bond a,templeton global bond fund r,False
 ishares 20+ year treasury bo,ishares 20+ year,True
 vang sm cap idx adm,vnguard index trust small cap idx instl,False
 linkedin corp class a,linkedin corp-a,True
@@ -490,7 +490,7 @@ primecap odyssey stock,primecap odyssey stock fund,True
 time warner inc,time warner inc com new,True
 vanguard total bond market index-admiral,vanguard total bond market index fund institutional plus,False
 marathon pete corporation,loews corporation div: 0.250,True
-ishares core msci emerging etf,harding loevner emerging mkts,True
+ishares core msci emerging etf,harding loevner emerging mkts,False
 vanguard short term tax exempt admiral share,vanguard short-term tax-exempt fund investor shares,False
 ford motor com,ford mtr co,True
 vanguard ftse all world ex us etf,vanguard ftse all-world ex-u,True
@@ -506,7 +506,7 @@ yamana gold inc cmn,yamana gold inc com,True
 vanguard total bond market idx-adm,vanguard total bond market idx instl pls,False
 otter tail corp com,otter tail corporation cmn,True
 sptn intl index ins,sptn intl index adv,False
-cnooc ltd. adr (sponsored),cnooc limited adr fsponsored adr 1 adr rep 100 cl h ord,False
+cnooc ltd. adr (sponsored),cnooc limited adr fsponsored adr 1 adr rep 100 cl h ord,True
 eaton vance global macro abs ret a,eaton vance global macro abslte rt cl a,True
 dfa u s small cap value cl i,dfa us small cap value prtf instl,False
 sears canada inc (canada),sears cda inc,True
