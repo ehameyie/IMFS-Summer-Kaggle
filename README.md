@@ -93,18 +93,6 @@ The "submission_phase2_yourteamname.csv" = what your output file must look like
 
 2. Your submission must follow the template "submission_phasenumber_yourteamname.csv"
 
-## Participants
-### Team 1
-Sharon Tsao
+## [Participants] (https://github.com/ehameyie/IMFS-Summer-Kaggle/blob/master/Teams.csv)
 
-### Team 2
-Chuqi Yang
-
-### Team 3
-Karly Jerman
-
-### Team 4
-
-
-## Scoring Board Leaders
-### Leader 1 - Team x
+## [Scoring Board Leaders] (https://github.com/ehameyie/IMFS-Summer-Kaggle/blob/master/Final_scores_2018_07_31_sorted.csv)
